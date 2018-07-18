@@ -1,5 +1,6 @@
 # Digital_program
 
+电波钟
 电子设计单片机程序
 
 接收信号
